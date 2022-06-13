@@ -7,7 +7,7 @@ CMSScanner - A simple cms scanner tool.
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/raic0d3r/dirscanner/main/download.png?raw=true "Optional Title")
+![Screenshot](https://raw.githubusercontent.com/raic0d3r/CMSScanner/main/download.png?raw=true "Optional Title")
 
 ## Table of Contents
 
